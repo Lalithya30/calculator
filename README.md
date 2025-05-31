@@ -1,7 +1,7 @@
 ## SIMPLE CALCULATOR
 A simple web-based calculator that performs basic arithmetic operations including addition, subtraction, multiplication, and division. Built using HTML, CSS, and JavaScript.
 
-Features
+## Features
 
 - Real-time input display
 - Supports:
